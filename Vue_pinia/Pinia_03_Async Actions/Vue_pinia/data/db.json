@@ -1,0 +1,14 @@
+{
+    "tasks": [
+        {   
+            "id": 1, 
+            "name":"Iphone", 
+            "isFav": false
+        },
+        {   
+            "id": 2, 
+            "name":"Samsung", 
+            "isFav": false
+        }
+    ]
+}
